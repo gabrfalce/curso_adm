@@ -82,7 +82,90 @@
     justify-content: center;
  }
 
+ .conteiner{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+ }
+ 
+ .coluna{
+    width: 40%;
+ }
+
+ h4{
+    color: white;
+    position: relative;
+    font-size: 1.8em;
+    left: 135px;
+    top: 350px;
+ }
+
+ li{
+    color: white;
+    position: relative;
+    font-size: 1.8em;
+    left: 100px;
+    top: 400px;
+ }
+
+ .pi{
+    color: white;
+    position: relative;
+    font-size: 1.8em;
+    left: 100px;
+    top: 450px;
+ }
+
+ .branco1{
+    background-color: white;
+    width: 550px;
+    height: 350px;
+    position: relative;
+    left: 1100px;
+    top: -270px;
+    border-radius: 20px;
+ }
+
+ .foto1{
+    width: 92%;
+    position: relative;
+    top: 35px;
+    left: 23px;
+ }
+
+ .branco2{
+    background-color: white;
+    width: 550px;
+    height: 350px;
+    position: relative;
+    left: 1100px;
+    top: -220px;
+    border-radius: 20px;
+ }
+
+ .foto2{
+    width: 90%;
+    position: relative;
+    top: 25px;
+    left: 30px;
+ }
+
  .retorno{
     position: absolute;
     left: -5px;
  }
+
+ .barra_inferior{
+    display: inline-block;
+    width: 48%;
+    height: 7px;
+    background-color: white;
+    border: none;
+    margin: 30px -5px;
+    border-radius: 20px;
+    position: relative;
+    top: -150px;
+    left: 480px;
+ }
+
+ 
